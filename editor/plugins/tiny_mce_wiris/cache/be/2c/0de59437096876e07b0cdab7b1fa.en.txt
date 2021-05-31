@@ -1,0 +1,1 @@
+{"result":{"text":"gamma subscript d space equals fraction numerator gamma over denominator 1 plus gamma subscript d end fraction"},"status":"ok"}

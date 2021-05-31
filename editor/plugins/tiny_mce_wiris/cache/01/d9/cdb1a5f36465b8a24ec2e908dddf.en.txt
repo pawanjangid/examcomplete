@@ -1,0 +1,1 @@
+{"result":{"text":"d subscript 1 plus d subscript 2"},"status":"ok"}

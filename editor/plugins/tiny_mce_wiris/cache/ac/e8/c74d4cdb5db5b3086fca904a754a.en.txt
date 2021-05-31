@@ -1,0 +1,1 @@
+{"result":{"text":"straight H increment rightwards arrow 11 subscript 1 superscript 1"},"status":"ok"}

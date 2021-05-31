@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript u over d equals fraction numerator 1100 minus 0.87 space f subscript y over denominator 700 end fraction"},"status":"ok"}

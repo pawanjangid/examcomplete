@@ -1,0 +1,1 @@
+{"result":{"text":"138 space cross times space 34 over 253 space cross times space 250"},"status":"ok"}

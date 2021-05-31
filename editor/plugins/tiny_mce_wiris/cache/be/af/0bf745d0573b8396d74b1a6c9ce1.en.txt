@@ -1,0 +1,1 @@
+{"result":{"text":"3 square root of 3"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2.303 over denominator straight t end fraction space log subscript 10 open parentheses fraction numerator straight a over denominator straight a minus straight x end fraction close parentheses"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator p subscript t apostrophe end subscript l i m space X f subscript y over denominator f subscript c k end subscript end fraction space equals space 19.87"},"status":"ok"}

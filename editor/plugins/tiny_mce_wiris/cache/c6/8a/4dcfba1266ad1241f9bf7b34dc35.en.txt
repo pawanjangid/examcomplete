@@ -1,0 +1,1 @@
+{"result":{"text":"f space equals space fraction numerator 0.0791 over denominator left parenthesis R subscript e right parenthesis to the power of 1 divided by 4 end exponent end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"C over L colon 15 over 9 colon colon E over N space colon space ?"},"status":"ok"}

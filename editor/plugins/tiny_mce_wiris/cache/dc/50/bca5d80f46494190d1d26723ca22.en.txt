@@ -1,0 +1,1 @@
+{"result":{"text":"increment straight H subscript straight f superscript straight o left parenthesis HF right parenthesis space equals space space minus 64.2"},"status":"ok"}

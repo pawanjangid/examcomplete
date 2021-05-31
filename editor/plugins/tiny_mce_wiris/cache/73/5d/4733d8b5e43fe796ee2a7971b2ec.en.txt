@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards arrow with 0.54 on top"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"E subscript H e to the power of plus end subscript space equals space 4 over 9 E subscript L i to the power of 2 plus end exponent end subscript"},"status":"ok"}

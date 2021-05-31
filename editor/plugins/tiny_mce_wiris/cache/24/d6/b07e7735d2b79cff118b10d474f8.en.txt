@@ -1,0 +1,1 @@
+{"result":{"text":"f space equals space 64 over R subscript e"},"status":"ok"}

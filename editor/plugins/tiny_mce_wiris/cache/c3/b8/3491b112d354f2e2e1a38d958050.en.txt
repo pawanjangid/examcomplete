@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 1 space plus x over 9 space end root space equals space fraction numerator 13 over denominator 3 space end fraction"},"status":"ok"}

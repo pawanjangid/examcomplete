@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses M subscript u x end subscript over M subscript u x 1 end subscript close parentheses to the power of blank to the power of alpha subscript n end exponent end exponent plus open parentheses M subscript u y end subscript over M subscript u y 1 end subscript close parentheses to the power of alpha subscript n end exponent equals 1"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator partial differential h over denominator partial differential x end fraction plus fraction numerator partial differential h over denominator partial differential z end fraction equals 0"},"status":"ok"}

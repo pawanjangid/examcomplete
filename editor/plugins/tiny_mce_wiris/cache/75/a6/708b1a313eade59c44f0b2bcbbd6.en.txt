@@ -1,0 +1,1 @@
+{"result":{"text":"S subscript r space equals space fraction numerator e W over denominator G end fraction"},"status":"ok"}

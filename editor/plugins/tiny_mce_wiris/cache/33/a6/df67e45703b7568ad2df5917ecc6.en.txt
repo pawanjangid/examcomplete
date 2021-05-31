@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 0.0002 over denominator log subscript 10 open parentheses t plus 2 close parentheses end fraction"},"status":"ok"}

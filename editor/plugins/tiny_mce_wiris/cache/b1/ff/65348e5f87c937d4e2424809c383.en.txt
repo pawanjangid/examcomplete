@@ -1,0 +1,1 @@
+{"result":{"text":"2 cross times 10 space to the power of 7 space space end exponent degree c space"},"status":"ok"}

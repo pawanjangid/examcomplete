@@ -1,0 +1,1 @@
+{"result":{"text":"5 space to the power of 5 x plus 5 space end exponent equals 1"},"status":"ok"}

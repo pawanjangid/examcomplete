@@ -1,0 +1,1 @@
+{"result":{"text":"increment straight H subscript straight f superscript straight o left parenthesis HCL right parenthesis"},"status":"ok"}

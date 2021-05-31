@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator f subscript c over denominator pi squared E end fraction"},"status":"ok"}

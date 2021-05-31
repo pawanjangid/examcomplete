@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses dx over dt close parentheses space equals space straight K left square bracket left parenthesis CH subscript 3 right parenthesis subscript 3 COH right square bracket"},"status":"ok"}

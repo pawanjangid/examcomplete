@@ -1,0 +1,1 @@
+{"result":{"text":"integral G. G H J J space sin open parentheses G G T R G R T log subscript T R R T ln open parentheses T Y T tan open parentheses Y close parentheses close parentheses end subscript open parentheses T T T close parentheses close parentheses"},"status":"ok"}

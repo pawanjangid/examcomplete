@@ -1,0 +1,1 @@
+{"result":{"text":"x cubed minus 3 x squared plus 3 x equals 28"},"status":"ok"}

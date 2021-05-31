@@ -1,0 +1,1 @@
+{"result":{"text":"1.6 cross times 10 to the power of negative 24 end exponent"},"status":"ok"}

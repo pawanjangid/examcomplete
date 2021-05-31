@@ -1,0 +1,1 @@
+{"result":{"text":"16 fraction numerator 2 space over denominator 3 space end fraction percent sign"},"status":"ok"}

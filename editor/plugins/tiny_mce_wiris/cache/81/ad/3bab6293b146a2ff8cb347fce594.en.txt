@@ -1,0 +1,1 @@
+{"result":{"text":"D subscript 10 over D subscript 60"},"status":"ok"}

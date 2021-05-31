@@ -1,0 +1,1 @@
+{"result":{"text":"48 square root of 3 space end root"},"status":"ok"}

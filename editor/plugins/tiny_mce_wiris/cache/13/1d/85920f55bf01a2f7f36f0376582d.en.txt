@@ -1,0 +1,1 @@
+{"result":{"text":"20 space cross times 10 space to the power of 8 space end exponent"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"6 space cross times 8 equals ?"},"status":"ok"}

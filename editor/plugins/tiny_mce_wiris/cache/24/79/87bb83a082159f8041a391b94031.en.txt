@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2800 over denominator 3 sigma subscript a b c end subscript end fraction"},"status":"ok"}

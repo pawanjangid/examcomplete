@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator partial differential squared h over denominator partial differential x squared end fraction space equals space fraction numerator begin display style partial differential squared h end style over denominator begin display style partial differential z squared end style end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight t over straight T subscript 50"},"status":"ok"}

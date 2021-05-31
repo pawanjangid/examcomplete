@@ -1,0 +1,1 @@
+{"result":{"text":"1 plus fraction numerator 4 over denominator 2 plus begin display style fraction numerator 3 over denominator 5 minus begin display style 1 half end style end fraction end style end fraction minus 1 half left parenthesis 10 divided by 2 right parenthesis\n"},"status":"ok"}

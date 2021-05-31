@@ -1,0 +1,1 @@
+{"result":{"text":"u space equals space U subscript m a x end subscript open square brackets R squared minus space r squared close square brackets"},"status":"ok"}

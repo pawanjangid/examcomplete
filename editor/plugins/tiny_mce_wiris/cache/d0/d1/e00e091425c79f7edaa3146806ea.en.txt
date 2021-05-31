@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator x cubed over denominator x to the power of 6 plus 27 x cubed plus 27 end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 3.25 cross times 3.20 minus 3.20 cross times 3.05 over denominator 0.064 end fraction space बर ा बर space ह ै minus"},"status":"ok"}

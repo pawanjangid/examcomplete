@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards arrow with straight H to the power of plus on top"},"status":"ok"}

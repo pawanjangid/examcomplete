@@ -1,0 +1,1 @@
+{"result":{"text":"sigma subscript c b c end subscript"},"status":"ok"}

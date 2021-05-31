@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1000 over denominator 2.303 end fraction straight K"},"status":"ok"}

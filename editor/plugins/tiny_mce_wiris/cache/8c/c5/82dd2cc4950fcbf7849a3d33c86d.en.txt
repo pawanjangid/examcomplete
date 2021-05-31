@@ -1,0 +1,1 @@
+{"result":{"text":"k over delta to the power of apostrophe less than 0.25"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"bevelled fraction numerator 1 plus e over denominator 1 minus e end fraction"},"status":"ok"}

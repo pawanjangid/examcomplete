@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1.575 over denominator 63 end fraction cross times 1000 space equals space V space cross times space 1 semicolon space V space equals space 25 space m l"},"status":"ok"}

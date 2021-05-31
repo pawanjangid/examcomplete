@@ -1,0 +1,1 @@
+{"result":{"text":"u fraction numerator partial differential u over denominator partial differential x end fraction space plus space v fraction numerator partial differential u over denominator partial differential y end fraction space plus space w fraction numerator partial differential u over denominator partial differential z end fraction"},"status":"ok"}

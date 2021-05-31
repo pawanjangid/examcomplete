@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator w A x with bar on top over denominator sin theta end fraction"},"status":"ok"}

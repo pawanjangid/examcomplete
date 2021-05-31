@@ -1,0 +1,1 @@
+{"result":{"text":"8 over 15 C subscript d square root of 2 g end root space X space H to the power of 3 divided by 2 end exponent"},"status":"ok"}

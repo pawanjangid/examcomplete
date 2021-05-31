@@ -1,0 +1,1 @@
+{"result":{"text":"250 space cross times space 10 cubed space cross times space fraction numerator 1.38 over denominator 34 end fraction space cross times space 253"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight N subscript 2 space plus space 3 straight H subscript 2 space rightwards harpoon over leftwards harpoon space 2 NH subscript 3"},"status":"ok"}

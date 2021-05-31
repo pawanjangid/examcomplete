@@ -1,0 +1,1 @@
+{"result":{"text":"d plus n over 3"},"status":"ok"}

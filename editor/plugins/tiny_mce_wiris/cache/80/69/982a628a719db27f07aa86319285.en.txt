@@ -1,0 +1,1 @@
+{"result":{"text":"negative 40 space N divided by m m squared space & space 20 space N divided by m m squared"},"status":"ok"}

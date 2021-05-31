@@ -1,0 +1,1 @@
+{"result":{"text":"xMnO subscript 4 superscript minus space"},"status":"ok"}

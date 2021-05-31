@@ -1,0 +1,1 @@
+{"result":{"text":"8 cross times 7 cross times 5 space equals 578 semicolon space 11 cross times 10 cross times 9 space equals 91011 semicolon\n3 cross times 1 cross times 2 equals 213 semicolon 7 cross times 4 cross times 2 equals ?"},"status":"ok"}

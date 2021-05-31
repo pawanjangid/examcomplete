@@ -1,0 +1,1 @@
+{"result":{"text":"C subscript d X space a space square root of 2 g end root X H to the power of 5 divided by 2 end exponent"},"status":"ok"}

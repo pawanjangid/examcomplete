@@ -1,0 +1,1 @@
+{"result":{"text":"T subscript u plus fraction numerator b over denominator 1.6 V subscript u end fraction"},"status":"ok"}

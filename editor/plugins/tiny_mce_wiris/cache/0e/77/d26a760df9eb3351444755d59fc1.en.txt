@@ -1,0 +1,1 @@
+{"result":{"text":"straight capital lambda subscript straight m superscript infinity"},"status":"ok"}

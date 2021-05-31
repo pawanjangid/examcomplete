@@ -1,0 +1,1 @@
+{"result":{"text":"40 cross times 12 plus 3 minus 6 divided by 60 equals ?"},"status":"ok"}

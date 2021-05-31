@@ -1,0 +1,1 @@
+{"result":{"text":"square root of ? space plus space 36 cross times 15 space equals space 581"},"status":"ok"}

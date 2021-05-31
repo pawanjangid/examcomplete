@@ -1,0 +1,1 @@
+{"result":{"text":"0.5 a square root of 2 g H end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript x space equals space rho A V squared"},"status":"ok"}

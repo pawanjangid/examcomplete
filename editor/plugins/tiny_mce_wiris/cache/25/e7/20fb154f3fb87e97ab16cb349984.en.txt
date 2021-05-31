@@ -1,0 +1,1 @@
+{"result":{"text":"9.1 cross times 10 to the power of negative 28 space end exponent"},"status":"ok"}

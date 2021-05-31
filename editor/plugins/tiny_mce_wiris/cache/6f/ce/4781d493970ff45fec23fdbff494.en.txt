@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator v squared over denominator 2 g end fraction"},"status":"ok"}

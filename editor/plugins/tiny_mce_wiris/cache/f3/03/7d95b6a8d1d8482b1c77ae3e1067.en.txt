@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight d open square brackets NH 3 close square brackets over denominator dt end fraction space equals space straight K subscript 1 open square brackets NH subscript 3 close square brackets"},"status":"ok"}

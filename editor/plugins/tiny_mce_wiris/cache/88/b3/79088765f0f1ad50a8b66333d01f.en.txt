@@ -1,0 +1,1 @@
+{"result":{"text":"increment H subscript f superscript 0 left square bracket H subscript 2 O subscript left parenthesis g right parenthesis end subscript right square bracket"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"1 over z equals 1 over x minus 1 over y"},"status":"ok"}

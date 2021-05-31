@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 6 space plus square root of 15 space equals space x square root of 10"},"status":"ok"}

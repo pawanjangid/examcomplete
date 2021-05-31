@@ -1,0 +1,1 @@
+{"result":{"text":"open square brackets table row cell sigma subscript 1 end cell tau row tau cell negative sigma subscript 1 end cell end table close square brackets"},"status":"ok"}

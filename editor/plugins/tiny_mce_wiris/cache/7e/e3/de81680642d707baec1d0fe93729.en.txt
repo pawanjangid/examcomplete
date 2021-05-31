@@ -1,0 +1,1 @@
+{"result":{"text":"1 over 8 V w subscript 1 u subscript 2 space plus space V w subscript 2 u subscript 2"},"status":"ok"}

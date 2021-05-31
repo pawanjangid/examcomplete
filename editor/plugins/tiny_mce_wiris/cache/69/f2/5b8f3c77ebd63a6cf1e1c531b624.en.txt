@@ -1,0 +1,1 @@
+{"result":{"text":"straight C subscript straight d bH subscript 1 square root of 2 gh end root"},"status":"ok"}

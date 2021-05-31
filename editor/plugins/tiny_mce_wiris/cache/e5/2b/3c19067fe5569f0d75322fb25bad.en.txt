@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards arrow with straight lambda subscript 4 on top"},"status":"ok"}

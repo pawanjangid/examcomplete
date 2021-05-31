@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator begin display style 2 A H subscript 1 squared end style over denominator begin display style C subscript d X subscript a square root of 2 g end root end style end fraction"},"status":"ok"}

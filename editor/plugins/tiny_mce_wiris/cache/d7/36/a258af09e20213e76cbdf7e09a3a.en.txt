@@ -1,0 +1,1 @@
+{"result":{"text":"W divided by 3 left parenthesis H minus H to the power of apostrophe right parenthesis end exponent"},"status":"ok"}

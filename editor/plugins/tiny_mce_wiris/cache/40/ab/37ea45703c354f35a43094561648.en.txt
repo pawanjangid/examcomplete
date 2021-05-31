@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 1 over C subscript c space minus space 1 close parentheses squared fraction numerator V over denominator 2 g end fraction"},"status":"ok"}

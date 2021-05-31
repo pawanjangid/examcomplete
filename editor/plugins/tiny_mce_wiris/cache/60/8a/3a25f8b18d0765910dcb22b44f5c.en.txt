@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 0.625 space cross times space 0.0729 space cross times space 28.9 over denominator 0.0081 space cross times space 0.025 space cross times space 1.7 end fraction space"},"status":"ok"}

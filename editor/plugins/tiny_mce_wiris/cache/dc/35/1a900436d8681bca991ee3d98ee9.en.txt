@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator s p a n over denominator 250 end fraction"},"status":"ok"}

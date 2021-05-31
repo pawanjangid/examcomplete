@@ -1,0 +1,1 @@
+{"result":{"text":"angle A B C equals 3 angle B A C"},"status":"ok"}

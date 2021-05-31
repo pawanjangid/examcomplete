@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis a squared plus 2 a plus 15 right parenthesis"},"status":"ok"}

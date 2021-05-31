@@ -1,0 +1,1 @@
+{"result":{"text":"open square brackets table row cell sigma subscript 1 end cell 0 row 0 cell sigma subscript 1 end cell end table close square brackets"},"status":"ok"}

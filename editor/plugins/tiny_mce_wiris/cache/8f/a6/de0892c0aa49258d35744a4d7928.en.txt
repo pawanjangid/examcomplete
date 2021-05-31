@@ -1,0 +1,1 @@
+{"result":{"text":"C subscript d X space b subscript blank square root of 2 g end root X H to the power of 3 divided by 2 end exponent"},"status":"ok"}

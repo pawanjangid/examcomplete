@@ -1,0 +1,1 @@
+{"result":{"text":"1 plus 2 s e c squared A space tan squared A minus s e c to the power of 4 A minus tan to the power of 4 A"},"status":"ok"}

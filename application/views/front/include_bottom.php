@@ -1,0 +1,25 @@
+    <script src="<?php echo base_url(); ?>front/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/popper.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/bootstrap.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/owl.carousel.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/isotope.pkgd.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/ajax-form.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/waypoints.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/jquery.counterup.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/imagesloaded.pkgd.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/scrollIt.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/jquery.scrollUp.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/wow.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/nice-select.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/jquery.slicknav.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/jquery.magnific-popup.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/plugins.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/gijgo.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/contact.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/jquery.ajaxchimp.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/jquery.form.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/jquery.validate.min.js"></script>
+    <script src="<?php echo base_url(); ?>front/js/mail-script.js"></script>
+
+    <script src="<?php echo base_url(); ?>front/js/main.js"></script>

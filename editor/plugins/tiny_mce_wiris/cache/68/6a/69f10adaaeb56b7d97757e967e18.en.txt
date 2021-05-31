@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator L i q u i d space l i m i t space minus space w a t e r space c o n t e n t over denominator P l a s t i c i t y space i n d e x end fraction"},"status":"ok"}

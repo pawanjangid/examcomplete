@@ -1,0 +1,1 @@
+{"result":{"text":"K space minus space K subscript x minus K subscript y"},"status":"ok"}

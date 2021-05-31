@@ -1,0 +1,1 @@
+{"result":{"text":"1 divided by A V cubed integral V d A"},"status":"ok"}

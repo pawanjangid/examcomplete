@@ -1,0 +1,1 @@
+{"result":{"text":"T over 2 to the power of 2 divided by 3 end exponent"},"status":"ok"}

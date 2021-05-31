@@ -1,0 +1,1 @@
+{"result":{"text":"x to the power of 4 minus x to the power of 2 space space end exponent y squared plus 1"},"status":"ok"}

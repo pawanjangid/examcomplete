@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator 0.324 cross times 0.081 cross times 4.624 over denominator 1.5625 cross times 0.0289 cross times 72.9 cross times.64 end fraction end root"},"status":"ok"}

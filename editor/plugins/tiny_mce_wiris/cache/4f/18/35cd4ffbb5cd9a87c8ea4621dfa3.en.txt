@@ -1,0 +1,1 @@
+{"result":{"text":"42 cross times 4 cross times 12 cross times 20 cross times 9"},"status":"ok"}

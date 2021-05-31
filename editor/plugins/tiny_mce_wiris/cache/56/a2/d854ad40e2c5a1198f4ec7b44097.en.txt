@@ -1,0 +1,1 @@
+{"result":{"text":"20 plus 4 cross times 6 minus 5 divided by 7"},"status":"ok"}

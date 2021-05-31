@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 10 over 14 end root"},"status":"ok"}

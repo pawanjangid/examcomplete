@@ -1,0 +1,1 @@
+{"result":{"text":"K space equals left parenthesis K subscript x K subscript y right parenthesis to the power of 1.5 end exponent"},"status":"ok"}

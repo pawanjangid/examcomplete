@@ -1,0 +1,1 @@
+{"result":{"text":"x to the power of 4 plus x squared y squared plus 1"},"status":"ok"}

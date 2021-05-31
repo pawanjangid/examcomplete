@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards harpoon over leftwards harpoon"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"negative fraction numerator straight d left square bracket straight A right square bracket over denominator dt end fraction space equals space straight k over 4 left square bracket straight A right square bracket"},"status":"ok"}

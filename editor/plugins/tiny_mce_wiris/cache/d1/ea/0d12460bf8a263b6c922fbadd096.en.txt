@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator partial differential p over denominator partial differential z end fraction equals space z"},"status":"ok"}

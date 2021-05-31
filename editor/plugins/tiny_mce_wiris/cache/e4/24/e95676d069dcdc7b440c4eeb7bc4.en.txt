@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 3 squared space minus space 2 squared close parentheses squared space plus space open parentheses 5 squared space minus space 4 squared close parentheses squared space plus thin space open parentheses 6 squared space minus space 5 squared close parentheses squared"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"1 over 8 left square bracket V subscript 1 u subscript 1 space plus space V subscript 2 u subscript 2 right square bracket"},"status":"ok"}

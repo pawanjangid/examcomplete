@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator D subscript f over denominator X d end fraction space less than space 0.43"},"status":"ok"}

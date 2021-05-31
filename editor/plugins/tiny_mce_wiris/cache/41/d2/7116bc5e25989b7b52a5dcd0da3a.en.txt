@@ -1,0 +1,1 @@
+{"result":{"text":"2.53 space cross times space fraction numerator 2.50 over denominator 1.38 end fraction"},"status":"ok"}

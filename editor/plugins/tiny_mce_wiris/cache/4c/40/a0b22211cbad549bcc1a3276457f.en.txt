@@ -1,0 +1,1 @@
+{"result":{"text":"1.00 left parenthesis f subscript y A subscript s v end subscript right parenthesis"},"status":"ok"}

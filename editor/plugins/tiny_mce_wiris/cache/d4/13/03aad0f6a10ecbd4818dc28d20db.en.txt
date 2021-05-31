@@ -1,0 +1,1 @@
+{"result":{"text":"u space equals negative space fraction numerator partial differential psi over denominator partial differential x end fraction comma space v space equals space fraction numerator partial differential psi over denominator partial differential y end fraction"},"status":"ok"}

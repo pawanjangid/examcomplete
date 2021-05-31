@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator begin display style I subscript G sin squared theta end style over denominator begin display style h with bar on top end style end fraction plus h with bar on top"},"status":"ok"}

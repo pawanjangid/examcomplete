@@ -1,0 +1,1 @@
+{"result":{"text":"1.5 space m sigma subscript c b end subscript"},"status":"ok"}

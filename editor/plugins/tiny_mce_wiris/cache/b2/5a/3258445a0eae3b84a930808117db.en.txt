@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator gamma squared A L squared over denominator 6 E end fraction"},"status":"ok"}

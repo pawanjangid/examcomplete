@@ -1,0 +1,1 @@
+{"result":{"text":"3654 divided by square root of 1764 space plus space ? space equals space 10 squared"},"status":"ok"}

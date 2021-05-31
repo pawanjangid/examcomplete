@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 5 W R squared over denominator 16 end fraction"},"status":"ok"}

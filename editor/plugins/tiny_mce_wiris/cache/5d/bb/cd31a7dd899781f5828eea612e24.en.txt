@@ -1,0 +1,1 @@
+{"result":{"text":"cross times negative divided by plus"},"status":"ok"}

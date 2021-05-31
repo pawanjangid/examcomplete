@@ -1,0 +1,1 @@
+{"result":{"text":"T space minus space fraction numerator 2 over denominator 3 cross times space 0.0821 end fraction"},"status":"ok"}

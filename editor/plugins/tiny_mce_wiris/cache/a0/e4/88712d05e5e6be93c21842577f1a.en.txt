@@ -1,0 +1,1 @@
+{"result":{"text":"9.1 cross times 10 to the power of negative 31 end exponent"},"status":"ok"}

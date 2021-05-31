@@ -1,0 +1,1 @@
+{"result":{"text":"11 square root of 7"},"status":"ok"}

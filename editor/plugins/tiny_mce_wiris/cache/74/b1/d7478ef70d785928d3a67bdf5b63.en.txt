@@ -1,0 +1,1 @@
+{"result":{"text":"h space equals space x space left square bracket s subscript g minus space s subscript 0 right square bracket"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 4 wd over denominator σcosα end fraction"},"status":"ok"}

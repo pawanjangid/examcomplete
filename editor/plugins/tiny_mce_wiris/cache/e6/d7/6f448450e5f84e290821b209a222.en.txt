@@ -1,0 +1,1 @@
+{"result":{"text":"dx over dt space equals space straight k left square bracket straight A right square bracket left square bracket straight B right square bracket squared"},"status":"ok"}

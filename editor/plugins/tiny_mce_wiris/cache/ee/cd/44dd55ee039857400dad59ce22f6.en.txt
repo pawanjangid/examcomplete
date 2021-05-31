@@ -1,0 +1,1 @@
+{"result":{"text":"p over w open parentheses fraction numerator 1 minus sin phi over denominator 1 plus sin phi end fraction close parentheses squared"},"status":"ok"}

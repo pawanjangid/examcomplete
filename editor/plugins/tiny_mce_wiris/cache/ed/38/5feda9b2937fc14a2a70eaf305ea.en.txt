@@ -1,0 +1,1 @@
+{"result":{"text":"b space plus n d space plus n subscript 1 fraction numerator p squared over denominator 4 g end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator u n s u p p o r t e d space l e n g t h over denominator 500 end fraction plus fraction numerator l a t e r a l space d i m e n s i o n over denominator 30 end fraction"},"status":"ok"}

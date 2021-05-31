@@ -1,0 +1,1 @@
+{"result":{"text":"e space equals space fraction numerator S G over denominator w end fraction"},"status":"ok"}

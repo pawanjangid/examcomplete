@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator k over denominator delta apostrophe end fraction space less than space 0.3"},"status":"ok"}

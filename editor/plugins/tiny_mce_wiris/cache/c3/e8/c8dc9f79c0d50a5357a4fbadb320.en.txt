@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator integral V cubed d A over denominator A V cubed end fraction"},"status":"ok"}

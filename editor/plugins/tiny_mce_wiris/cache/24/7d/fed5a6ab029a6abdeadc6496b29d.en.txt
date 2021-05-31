@@ -1,0 +1,1 @@
+{"result":{"text":"cross times 6 space divided by 2 space"},"status":"ok"}

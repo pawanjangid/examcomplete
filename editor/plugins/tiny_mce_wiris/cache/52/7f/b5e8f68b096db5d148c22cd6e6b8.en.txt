@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 100 space over denominator x space to the power of 2 space end exponent end fraction percent sign"},"status":"ok"}

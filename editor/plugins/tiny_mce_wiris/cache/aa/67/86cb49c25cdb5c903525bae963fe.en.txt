@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator x plus y plus z space over denominator 3 z space end fraction"},"status":"ok"}

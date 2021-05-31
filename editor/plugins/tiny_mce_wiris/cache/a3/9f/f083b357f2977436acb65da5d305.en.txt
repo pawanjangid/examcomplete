@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator begin display style I subscript a end style over denominator begin display style A h end style end fraction plus h with bar on top"},"status":"ok"}

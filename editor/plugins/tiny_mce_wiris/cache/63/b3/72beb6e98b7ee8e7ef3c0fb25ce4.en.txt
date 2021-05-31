@@ -1,0 +1,1 @@
+{"result":{"text":"K space equals space fraction numerator 2.303 over denominator t end fraction log subscript 10 open parentheses fraction numerator V subscript infinity space minus space V subscript 0 over denominator V subscript infinity space minus space V subscript t end fraction close parentheses"},"status":"ok"}

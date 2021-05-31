@@ -1,0 +1,1 @@
+{"result":{"text":"integral subscript 2 superscript 3 l d l space plus sin open parentheses theta beta close parentheses space plus space sum for k equals 0 of n left parenthesis n plus 1 right parenthesis"},"status":"ok"}

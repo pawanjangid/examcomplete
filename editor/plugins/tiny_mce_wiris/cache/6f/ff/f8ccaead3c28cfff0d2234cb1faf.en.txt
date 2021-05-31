@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator l a t e r a l space l e n g t h over denominator 500 end fraction"},"status":"ok"}

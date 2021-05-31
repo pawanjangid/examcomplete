@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 A H subscript 1 to the power of 3 divided by 2 end exponent over denominator C subscript d X subscript a square root of 2 g end root end fraction"},"status":"ok"}

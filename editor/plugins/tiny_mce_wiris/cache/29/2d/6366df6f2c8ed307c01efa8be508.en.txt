@@ -1,0 +1,1 @@
+{"result":{"text":"175 minus 25 divided by 5 plus 20 cross times 3 plus 10 equals ?"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"0.4 space f c k space A g space plus space left parenthesis 0.67 space f y space – space 0.4 space f c k right parenthesis space A s"},"status":"ok"}

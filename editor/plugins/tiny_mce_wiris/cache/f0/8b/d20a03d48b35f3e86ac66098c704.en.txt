@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards arrow with 0.35 straight V on top"},"status":"ok"}

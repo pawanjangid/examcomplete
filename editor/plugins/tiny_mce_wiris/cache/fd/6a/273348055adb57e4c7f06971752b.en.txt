@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator M subscript u comma l i m end subscript over denominator b d squared end fraction"},"status":"ok"}

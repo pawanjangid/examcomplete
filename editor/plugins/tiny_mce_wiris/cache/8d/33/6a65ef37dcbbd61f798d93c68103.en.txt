@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator partial differential p over denominator partial differential r end fraction space equals space minus space rho v squared over r"},"status":"ok"}

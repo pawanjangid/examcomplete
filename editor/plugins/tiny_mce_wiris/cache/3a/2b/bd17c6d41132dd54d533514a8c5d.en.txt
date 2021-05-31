@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator p over denominator 1 plus w end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"V subscript u plus 1.6 T subscript u over b"},"status":"ok"}

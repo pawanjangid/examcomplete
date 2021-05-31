@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator a to the power of 2 space end exponent over denominator 7 space end fraction"},"status":"ok"}

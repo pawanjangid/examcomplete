@@ -1,0 +1,1 @@
+{"result":{"text":"8 over 3 space X space 10 to the power of negative 2 end exponent"},"status":"ok"}

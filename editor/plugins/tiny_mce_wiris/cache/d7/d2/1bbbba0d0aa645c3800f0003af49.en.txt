@@ -1,0 +1,1 @@
+{"result":{"text":"D subscript f over d space greater or equal than space 0.43"},"status":"ok"}

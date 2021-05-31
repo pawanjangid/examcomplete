@@ -1,0 +1,1 @@
+{"result":{"text":"w left square bracket H minus 1 third left parenthesis H minus H apostrophe right parenthesis right square bracket"},"status":"ok"}

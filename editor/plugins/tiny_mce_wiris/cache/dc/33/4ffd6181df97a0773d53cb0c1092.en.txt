@@ -1,0 +1,1 @@
+{"result":{"text":"C subscript d X space a subscript blank square root of 2 g H end root"},"status":"ok"}

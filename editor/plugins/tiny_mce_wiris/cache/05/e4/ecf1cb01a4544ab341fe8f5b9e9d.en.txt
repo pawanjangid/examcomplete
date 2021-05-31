@@ -1,0 +1,1 @@
+{"result":{"text":"gamma"},"status":"ok"}

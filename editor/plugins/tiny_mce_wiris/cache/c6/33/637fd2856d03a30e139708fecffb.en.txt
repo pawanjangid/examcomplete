@@ -1,0 +1,1 @@
+{"result":{"text":"w over w subscript s"},"status":"ok"}

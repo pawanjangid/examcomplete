@@ -1,0 +1,1 @@
+{"result":{"text":"f subscript c k end subscript over gamma"},"status":"ok"}

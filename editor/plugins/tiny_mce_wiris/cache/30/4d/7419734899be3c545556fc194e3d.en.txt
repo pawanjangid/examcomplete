@@ -1,0 +1,1 @@
+{"result":{"text":"6 1 fourth percent sign"},"status":"ok"}

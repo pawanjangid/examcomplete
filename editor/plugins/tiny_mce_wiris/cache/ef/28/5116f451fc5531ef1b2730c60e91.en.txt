@@ -1,0 +1,1 @@
+{"result":{"text":"sigma i y y"},"status":"ok"}

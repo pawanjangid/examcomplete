@@ -1,0 +1,1 @@
+{"result":{"text":"5 space cross times 7 space equals 5 semicolon space 12 space cross times 3 equals 6 semicolon space 8 space cross times 9 equals 2 comma space"},"status":"ok"}

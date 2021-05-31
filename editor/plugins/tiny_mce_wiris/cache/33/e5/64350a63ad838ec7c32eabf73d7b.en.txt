@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator gamma squared A L cubed over denominator 2 E end fraction"},"status":"ok"}

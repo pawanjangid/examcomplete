@@ -1,0 +1,1 @@
+{"result":{"text":"Y squared"},"status":"ok"}

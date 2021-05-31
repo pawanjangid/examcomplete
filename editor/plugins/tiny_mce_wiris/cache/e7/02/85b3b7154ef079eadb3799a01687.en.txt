@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1120 over denominator square root of p end fraction"},"status":"ok"}

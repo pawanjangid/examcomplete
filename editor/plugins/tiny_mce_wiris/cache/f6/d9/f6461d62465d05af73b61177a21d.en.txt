@@ -1,0 +1,1 @@
+{"result":{"text":"100 over x squared"},"status":"ok"}

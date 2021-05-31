@@ -1,0 +1,1 @@
+{"result":{"text":"square root of a minus fraction numerator 1 over denominator square root of a end fraction"},"status":"ok"}

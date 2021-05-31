@@ -1,0 +1,1 @@
+{"result":{"text":"x subscript u space equals space fraction numerator 0.87 f subscript y A subscript s t end subscript over denominator 0.36 f subscript c k end subscript b end fraction"},"status":"ok"}

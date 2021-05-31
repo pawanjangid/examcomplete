@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator begin display style partial differential x end style over denominator begin display style blank end style end fraction minus"},"status":"ok"}
